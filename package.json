@@ -1,0 +1,14 @@
+{
+  "name": "watney-flight",
+  "version": "1.0.0",
+  "description": "Flight computer to manage OBD2 and GPS data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Hartigan",
+  "license": "ISC",
+  "dependencies": {
+    "terminal-kit": "^2.1.6"
+  }
+}
